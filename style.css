@@ -1,0 +1,72 @@
+
+*{
+    margin: 0 auto;
+}
+a{
+    font-size: 17px;
+    color: black;
+    font-weight: 600;
+    font-family: Open Sans;
+    text-decoration: none;
+}
+body{
+    background-color: rgb(5, 5, 5);
+}
+li{
+    list-style: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.logo img{
+    margin-top: 15px;
+    max-height: 70px;
+    max-width: 100%;
+}
+
+.mainmenu .container{
+    background-color: rgb(255, 255, 255);
+    display: flex;  
+    max-height: 90px;
+}
+
+.mainmenu{
+    max-width: 100%;
+    max-height: 90px;
+    background: white;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+
+.nav li{
+    padding: 30px 5px;
+}
+
+.icons img{
+    max-height: 15px;
+    max-width: 15px;
+    padding: 0 5px;
+
+}
+
+.icons{
+    margin-top: 34px;
+}
+
+.search-box img{
+   background: rgb(245, 171, 33);
+   padding: 25px;
+   max-width: 40px;
+   max-height: 40px;
+}
+
+
+
+
