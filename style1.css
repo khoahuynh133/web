@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+}
+a{
+    font-size: 16px;
+    color: black;
+    font-weight: 600;
+    font-family: Open Sans;
+    text-decoration: none;
+}
+body{
+    background-color: grey;
+}
+li{
+    list-style: none;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+.logo img{
+    max-height: 70px;
+    max-width: 100%;
+}
+
+.mainmenu .container{
+    background-color: white;
+    display: flex;
+    margin-right: 140px;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+
+.nav li{
+    padding: 17px 8px;
+}
+
+.icons img{
+    max-height: 50px;
+    max-width: 100%;
+}
+
+
